@@ -1,0 +1,24 @@
+{
+  "name": "clase2",
+  "version": "1.0.0",
+  "description": "Clase 2 del curso de ReactJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "node",
+    "react",
+    "arrays",
+    "functional"
+  ],
+  "author": "camada3335",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.85.0"
+  },
+  "devDependencies": {
+    "tape": "^4.9.0"
+  }
+}
