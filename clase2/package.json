@@ -16,7 +16,8 @@
   "author": "camada3335",
   "license": "MIT",
   "dependencies": {
-    "request": "^2.85.0"
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
   },
   "devDependencies": {
     "tape": "^4.9.0"
