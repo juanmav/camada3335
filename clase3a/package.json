@@ -1,0 +1,21 @@
+{
+  "name": "clase3a",
+  "version": "1.0.0",
+  "description": "Como pasar de request a request-promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "promises",
+    "node",
+    "require",
+    "request"
+  ],
+  "author": "camada3335",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.85.0"
+  }
+}
